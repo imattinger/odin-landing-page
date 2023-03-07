@@ -1,0 +1,15 @@
+.dark {
+    background-color: #1f2937;
+    color: #f9faf8;
+}
+
+.gray {
+    background-color: #e5e7eb;
+    color: #1f2937;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+}
