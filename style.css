@@ -37,30 +37,35 @@ a {
 
 .title {
     display: flex;
+    align-items: center;
+    gap: 50px;
     margin: 100px 0px;
 }
 
 .awesome {
-    flex: 1;
+    width: 460px;
 }
 
 h1 {
     font-size: 48px;
     font-weight: 800;
+    margin: 0;
+    padding: 0;
 }
 
 .awesome p {
     font-size: 18px;
     color: #e5e7eb;
+    margin: 8px 0px 16px 0px;
 }
 
 .placeholder-gray {
-    flex: 1;
-    background-color: gray;
+    background-color: #838792;
     color: white;
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 100px;
 }
 
 .random-info {
