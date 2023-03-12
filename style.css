@@ -139,3 +139,8 @@ button {
     border-radius: 8px;
     padding: 8px 24px;
 }
+
+.footer {
+    padding: 32px;
+    color: #e5e7eb;
+}
