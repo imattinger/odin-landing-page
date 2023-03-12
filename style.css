@@ -109,12 +109,27 @@ h1 {
 .gray {
     background-color: #e5e7eb;
     color: #1f2937;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 100px;
 }
 
 .quote {
+    width: 800px;
+}
+
+.quote-body {
     font-size: 36px;
     font-weight: lighter;
     font-style: italic;
+}
+
+.quote-attribution {
+    text-align: right;
+    font-size: 24px;
+    font-weight: 800;
+    margin: 16px;
 }
 
 button {
